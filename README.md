@@ -1,5 +1,5 @@
 # teach-qgis
-materials for teaching QGIS
+Materials for teaching [QGIS](http://www.qgis.org/en/site/), a free and open source geographic information system.
 
 ##Links
 
